@@ -39,7 +39,3 @@ $ python -i 01_variables/bubble_sort.py
 
 作者：piglei \<piglei2007@gmail.com\>
 主页：https://www.zlovezl.cn/
-
-## 修改记录
-
-- 2021.12.26：整理第一个版本
